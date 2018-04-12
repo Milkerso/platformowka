@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>HiDef</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/platformowka/platformowka/platformowka/Content/caveman.png</File>
+    <File>D:/platformowka/platformowka/platformowka/Content/tiledMap.tmx</File>
+    <File>D:/platformowka/platformowka/platformowka/Content/tileset.png</File>
+    <File>D:/platformowka/platformowka/platformowka/Content/character/1.png</File>
+    <File>D:/platformowka/platformowka/platformowka/Content/character/2.png</File>
+    <File>D:/platformowka/platformowka/platformowka/Content/character/3.png</File>
+    <File>D:/platformowka/platformowka/platformowka/Content/character/4.png</File>
+    <File>D:/platformowka/platformowka/platformowka/Content/character/5.png</File>
+    <File>D:/platformowka/platformowka/platformowka/Content/character/6.png</File>
+    <File>D:/platformowka/platformowka/platformowka/Content/map/tilemap.tmx</File>
+    <File>D:/platformowka/platformowka/platformowka/Content/map/tileset.png</File>
+    <File>D:/platformowka/platformowka/platformowka/Content/postac/postac.png</File>
+  </SourceFiles>
+</SourceFileCollection>

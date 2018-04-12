@@ -37,7 +37,7 @@ namespace Nez.Samples
             var texture = entity.scene.content.Load<Texture2D>("postac/postac");
 
             var subtextures = Subtexture.subtexturesFromAtlas(texture, 20, 31);
-
+            var a=5;
             _mover = entity.addComponent(new Mover());
             _animation = entity.addComponent(new Sprite<Animations>(subtextures[0]));
 
